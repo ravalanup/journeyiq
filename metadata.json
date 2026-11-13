@@ -1,0 +1,6 @@
+{
+  "name": "JourneyIQ",
+  "description": "AI-Powered Guest Journey Intelligence and Adaptive Trip-Planning Platform with Multi-Agent Orchestration and Real-Time Event Adaptation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
